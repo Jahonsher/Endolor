@@ -1,44 +1,53 @@
-import React, { useState } from 'react';
-import videoDataAll from '../data/videos.json';
+import { useState } from 'react'
+import videoDataAll from '../data/videos.json'
 
-const Videos = ({ lang = 'uz' }) => {
-  // Tanlangan tildagi kontentni olish
-  const currentContent = videoDataAll[lang] || videoDataAll['uz'];
-  const [activeFilter, setActiveFilter] = useState('all');
-  
-  // Qaysi video hozirda kard ichida ijro etilayotganini saqlash
-  const [activeVideoId, setActiveVideoId] = useState(null);
+export default function Videos({ lang = 'uz', t }) {
+  const currentContent = videoDataAll[lang] || videoDataAll['uz']
+  const [activeFilter, setActiveFilter] = useState('all')
+  const [activeVideoId, setActiveVideoId] = useState(null)
 
-  // Filtrlash
-  const filteredVideos = activeFilter === 'all' 
-    ? currentContent.items 
-    : currentContent.items.filter(v => v.category === activeFilter);
+  const filteredVideos =
+    activeFilter === 'all'
+      ? currentContent.items
+      : currentContent.items.filter((v) => v.category === activeFilter)
 
   return (
-    <div className="bg-[#fcfcfc] min-h-screen font-sans overflow-x-hidden">
-      
-      {/* HERO SECTION */}
-      <section className="relative h-[300px] md:h-[400px] flex items-center justify-center text-white text-center">
-        <div className="absolute inset-0 bg-[#1a2b48]/80 z-10"></div>
-        <img 
-          src="https://endolor.uz/assets/images/about/1.jpg" 
-          className="absolute inset-0 w-full h-full object-cover" 
-          alt="hero" 
+    <div className="bg-[#F7FAFF] min-h-screen">
+      {/* HERO */}
+      <section className="relative h-[320px] md:h-[400px] flex items-center justify-center text-white overflow-hidden">
+        <img
+          src="/images/hero/hero2.webp"
+          className="absolute inset-0 w-full h-full object-cover"
+          alt="Videos hero"
         />
-        <div className="relative z-20 px-4">
-          <p className="text-[10px] md:text-[12px] tracking-[0.4em] uppercase mb-4 opacity-90 font-bold">{currentContent.heroSubtitle}</p>
-          <h1 className="text-3xl md:text-5xl font-bold mb-4 leading-tight">{currentContent.heroTitle}</h1>
-          <p className="text-sm opacity-70 font-medium">{currentContent.breadcrumb}</p>
+        <div className="absolute inset-0 bg-gradient-to-r from-[#041424]/90 via-[#041424]/80 to-[#041424]/60" />
+        <div className="relative z-10 text-center px-4">
+          <p className="text-[11px] md:text-xs tracking-[0.35em] uppercase mb-4 text-[#0C5ADB] font-extrabold">
+            {currentContent.heroSubtitle}
+          </p>
+          <h1 className="text-3xl md:text-5xl lg:text-6xl font-extrabold mb-4 leading-tight">
+            {currentContent.heroTitle}
+          </h1>
+          <div className="flex items-center justify-center gap-2 text-sm">
+            <a href="/" className="text-white/70 hover:text-white transition-colors">{t.nav.home}</a>
+            <svg className="w-4 h-4 text-[#0C5ADB]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2.5">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
+            </svg>
+            <span className="text-[#0C5ADB] font-bold">{t.nav.videos}</span>
+          </div>
         </div>
       </section>
 
-      {/* FILTER SECTION */}
-      <section className="py-12 md:py-20 container mx-auto px-4 lg:px-8">
-        <div className="flex flex-col lg:flex-row justify-between items-start gap-10 mb-16">
+      <section className="py-16 md:py-24 container mx-auto px-4 lg:px-8">
+        <div className="flex flex-col lg:flex-row justify-between items-start gap-10 mb-14">
           <div className="max-w-xl">
-            <p className="text-[#00c2cb] font-bold text-xs tracking-[0.2em] mb-3 uppercase">{currentContent.filterBadge}</p>
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1a2b48] mb-4 leading-tight">{currentContent.filterTitle}</h2>
-            <p className="text-gray-500 text-sm leading-relaxed">{currentContent.filterDesc}</p>
+            <span className="inline-block text-[11px] font-extrabold uppercase tracking-[0.3em] text-[#0C5ADB] mb-3">
+              — {currentContent.filterBadge}
+            </span>
+            <h2 className="text-3xl md:text-4xl font-extrabold text-[#041424] mb-4 leading-[1.15]">
+              {currentContent.filterTitle}
+            </h2>
+            <p className="text-[#5b6675] text-[15px] leading-relaxed">{currentContent.filterDesc}</p>
           </div>
 
           <div className="flex flex-wrap gap-2 lg:max-w-2xl justify-start lg:justify-end">
@@ -46,13 +55,13 @@ const Videos = ({ lang = 'uz' }) => {
               <button
                 key={catKey}
                 onClick={() => {
-                  setActiveFilter(catKey);
-                  setActiveVideoId(null); // Filtr o'zgarganda pleyerlarni yopish
+                  setActiveFilter(catKey)
+                  setActiveVideoId(null)
                 }}
-                className={`px-5 py-2.5 rounded-full text-[11px] font-bold transition-all border uppercase tracking-wider ${
-                  activeFilter === catKey 
-                  ? 'bg-[#0056b3] text-white border-[#0056b3] shadow-lg shadow-blue-200' 
-                  : 'bg-white text-gray-400 border-gray-200 hover:border-[#00c2cb] hover:text-[#00c2cb]'
+                className={`px-5 py-2.5 rounded-full text-[11px] font-extrabold transition-all border uppercase tracking-widest cursor-pointer ${
+                  activeFilter === catKey
+                    ? 'bg-[#0C5ADB] text-white border-[#0C5ADB] shadow-lg shadow-[#0C5ADB]/30'
+                    : 'bg-white text-[#5b6675] border-[#e7edf5] hover:border-[#0C5ADB] hover:text-[#0C5ADB]'
                 }`}
               >
                 {currentContent.categories[catKey]}
@@ -62,15 +71,11 @@ const Videos = ({ lang = 'uz' }) => {
         </div>
 
         {/* VIDEO GRID */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8">
           {filteredVideos.map((video) => (
             <div key={video.id} className="flex flex-col group">
-              
-              {/* VIDEO CARD CONTAINER */}
-              <div className="relative aspect-[3/4] rounded-[24px] overflow-hidden shadow-sm border border-gray-100 bg-black group-hover:shadow-2xl transition-all duration-500">
-                
+              <div className="relative aspect-[3/4] rounded-[24px] overflow-hidden shadow-md border border-[#e7edf5] bg-[#041424] group-hover:shadow-2xl group-hover:shadow-[#0C5ADB]/20 transition-all duration-500">
                 {activeVideoId === video.id ? (
-                  /* AGAR VIDEO BOSILSA - IFRAME CHIQADI */
                   <iframe
                     className="w-full h-full"
                     src={`https://www.youtube.com/embed/${video.youtubeId}?autoplay=1&modestbranding=1&rel=0`}
@@ -78,51 +83,43 @@ const Videos = ({ lang = 'uz' }) => {
                     frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
-                  ></iframe>
+                  />
                 ) : (
-                  /* DEFAULT HOLAT - THUMBNAIL */
-                  <div 
-                    className="relative w-full h-full cursor-pointer"
-                    onClick={() => setActiveVideoId(video.id)}
-                  >
-                    <img 
-                      src={`https://img.youtube.com/vi/${video.youtubeId}/maxresdefault.jpg`} 
-                      alt={video.title} 
-                      className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 opacity-90 group-hover:opacity-100"
+                  <div className="relative w-full h-full cursor-pointer" onClick={() => setActiveVideoId(video.id)}>
+                    <img
+                      src={`https://img.youtube.com/vi/${video.youtubeId}/maxresdefault.jpg`}
+                      alt={video.title}
+                      className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                     />
-                    
-                    {/* Play Button Overlay */}
+                    <div className="absolute inset-0 bg-gradient-to-t from-[#041424]/70 via-transparent to-transparent" />
+
                     <div className="absolute inset-0 flex items-center justify-center">
-                      <div className="w-14 h-14 bg-white/90 rounded-full flex items-center justify-center shadow-2xl group-hover:scale-125 transition-transform duration-300">
-                        <svg className="w-8 h-8 text-[#0056b3] ml-1" fill="currentColor" viewBox="0 0 24 24">
+                      <div className="w-16 h-16 bg-white/95 rounded-full flex items-center justify-center shadow-2xl group-hover:scale-110 transition-transform duration-300">
+                        <svg className="w-8 h-8 text-[#0C5ADB] ml-1" fill="currentColor" viewBox="0 0 24 24">
                           <path d="M8 5v14l11-7z" />
                         </svg>
                       </div>
                     </div>
 
-                    {/* Category Label */}
-                    <div className="absolute top-5 left-5 bg-[#1a2b48]/90 text-white text-[10px] px-3 py-1.5 rounded-lg font-bold uppercase tracking-wider">
+                    <div className="absolute top-4 left-4 bg-white/95 text-[#041424] text-[10px] px-3 py-1.5 rounded-full font-extrabold uppercase tracking-widest">
                       {currentContent.categories[video.category]}
                     </div>
-
-                    <span className="absolute bottom-5 right-5 text-white text-[10px] font-bold opacity-80 uppercase tracking-[0.2em] drop-shadow-lg">
-                      Shorts
-                    </span>
                   </div>
                 )}
               </div>
 
-              {/* VIDEO TEXT INFO */}
               <div className="pt-5 px-1">
-                <h3 className="text-[#1a2b48] font-bold text-[15px] mb-2 leading-snug line-clamp-2 h-11 group-hover:text-[#0056b3] transition-colors">
+                <h3 className="text-[#041424] font-bold text-[15px] mb-2 leading-snug line-clamp-2 h-11 group-hover:text-[#0C5ADB] transition-colors">
                   {video.title}
                 </h3>
-                <button 
-                   onClick={() => setActiveVideoId(activeVideoId === video.id ? null : video.id)}
-                   className="text-[#00c2cb] text-[11px] font-extrabold uppercase tracking-widest flex items-center gap-2 hover:gap-3 transition-all"
+                <button
+                  onClick={() => setActiveVideoId(activeVideoId === video.id ? null : video.id)}
+                  className="text-[#0C5ADB] text-[11px] font-extrabold uppercase tracking-widest flex items-center gap-2 hover:gap-3 transition-all cursor-pointer"
                 >
-                  {activeVideoId === video.id ? 'STOP' : currentContent.playBtn} 
-                  <span className="text-lg">→</span>
+                  {activeVideoId === video.id ? 'STOP' : currentContent.playBtn}
+                  <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2.5">
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                  </svg>
                 </button>
               </div>
             </div>
@@ -130,13 +127,11 @@ const Videos = ({ lang = 'uz' }) => {
         </div>
 
         {filteredVideos.length === 0 && (
-          <div className="text-center py-20 text-gray-300 font-medium text-lg">
-             Hozircha bu bo'limda videolar yo'q.
+          <div className="text-center py-20 text-[#6b7280] font-medium text-lg">
+            Hozircha bu bo'limda videolar yo'q.
           </div>
         )}
       </section>
     </div>
-  );
-};
-
-export default Videos;
+  )
+}

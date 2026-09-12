@@ -10,167 +10,167 @@
       {
         "id": 1,
         "name": "Adenotomiya (shayver usulida, bolalar)",
-        "img": "https://endolor.uz/services/1.jpg"
+        "img": "/images/services/service-1.jpg"
       },
       {
         "id": 2,
         "name": "Adenotomiya (shayver usulida, kattalar)",
-        "img": "https://endolor.uz/services/2.jpg"
+        "img": "/images/services/service-2.jpg"
       },
       {
         "id": 3,
         "name": "Radioto‘lqinli vazotomiya",
-        "img": "https://endolor.uz/services/3.jpg"
+        "img": "/images/services/service-3.jpg"
       },
       {
         "id": 4,
         "name": "Endoskopik radioto‘lqinli vazotomiya",
-        "img": "https://endolor.uz/services/4.jpg"
+        "img": "/images/services/service-4.jpg"
       },
       {
         "id": 5,
         "name": "Endoskopik septoplastika",
-        "img": "https://endolor.uz/services/5.jpg"
+        "img": "/images/services/service-5.jpg"
       },
       {
         "id": 6,
         "name": "Septoplastika + endoskopik radioto‘lqinli vazotomiya",
-        "img": "https://endolor.uz/services/6.jpg"
+        "img": "/images/services/service-6.jpg"
       },
       {
         "id": 7,
         "name": "Endoskopik septoplastika + endoskopik radioto‘lqinli vazotomiya",
-        "img": "https://endolor.uz/services/7.jpg"
+        "img": "/images/services/service-7.jpg"
       },
       {
         "id": 8,
         "name": "Radioto‘lqinli tonzillotomiya",
-        "img": "https://endolor.uz/services/8.jpg"
+        "img": "/images/services/service-8.jpg"
       },
       {
         "id": 9,
         "name": "Bir tomondan endoskopik endonazal shayverli gaymorotomiya",
-        "img": "https://endolor.uz/services/9.jpg"
+        "img": "/images/services/service-9.jpg"
       },
       {
         "id": 10,
         "name": "Bir tomondan endoskopik endonazal shayverli frontotomiya",
-        "img": "https://endolor.uz/services/10.jpg"
+        "img": "/images/services/service-10.jpg"
       },
       {
         "id": 11,
         "name": "Bir tomondan endoskopik endonazal shayverli sfenoidotomiya",
-        "img": "https://endolor.uz/services/11.jpg"
+        "img": "/images/services/service-11.jpg"
       },
       {
         "id": 12,
         "name": "Endoskopik endonazal shayverli polipotomiya",
-        "img": "https://endolor.uz/services/12.jpg"
+        "img": "/images/services/service-12.jpg"
       },
       {
         "id": 13,
         "name": "Bir tomondan endoskopik endonazal shayverli dakriotsistorinostomiya",
-        "img": "https://endolor.uz/services/13.jpg"
+        "img": "/images/services/service-13.jpg"
       },
       {
         "id": 14,
         "name": "Bir tomondan paratsentez",
-        "img": "https://endolor.uz/services/14.jpg"
+        "img": "/images/services/service-14.jpg"
       },
       {
         "id": 15,
         "name": "Bir tomondan baraban pardasini shuntlash",
-        "img": "https://endolor.uz/services/15.jpg"
+        "img": "/images/services/service-15.jpg"
       },
       {
         "id": 16,
         "name": "Birlamchi ochiq rinoseptoplastika",
-        "img": "https://endolor.uz/services/16.jpg"
+        "img": "/images/services/service-16.jpg"
       },
       {
         "id": 17,
         "name": "Ikkilamchi ochiq rinoseptoplastika",
-        "img": "https://endolor.uz/services/17.jpg"
+        "img": "/images/services/service-17.jpg"
       },
       {
         "id": 18,
         "name": "Bir tomondan quloqning radikal operatsiyasi",
-        "img": "https://endolor.uz/services/18.jpg"
+        "img": "/images/services/service-18.jpg"
       },
       {
         "id": 19,
         "name": "Bir tomondan timpanoplastika",
-        "img": "https://endolor.uz/services/19.jpg"
+        "img": "/images/services/service-19.jpg"
       },
       {
         "id": 20,
         "name": "Bir tomondan tashqi eshituv yo‘lidagi poliplarni olib tashlash",
-        "img": "https://endolor.uz/services/20.jpg"
+        "img": "/images/services/service-20.jpg"
       },
       {
         "id": 21,
         "name": "Xurrakda yumshoq tanglay va tilcha plastikasi",
-        "img": "https://endolor.uz/services/21.jpg"
+        "img": "/images/services/service-21.jpg"
       },
       {
         "id": 22,
         "name": "Burun suyaklarini joyiga qaytarish (repozitsiya)",
-        "img": "https://endolor.uz/services/22.jpg"
+        "img": "/images/services/service-22.jpg"
       },
       {
         "id": 23,
         "name": "Burun to‘sig‘i tomirlarini kuydirish",
-        "img": "https://endolor.uz/services/23.jpg"
+        "img": "/images/services/service-23.jpg"
       },
       {
         "id": 24,
         "name": "Jarohatlarda baraban pardasini tiklash",
-        "img": "https://endolor.uz/services/24.jpg"
+        "img": "/images/services/service-24.jpg"
       },
     {
         "id": 25,
         "name": "Narkoz",
-        "img": "https://endolor.uz/services/25.jpg"
+        "img": "/images/services/service-25.jpg"
     },
     {
         "id": 26,
         "name": "Septoplastika",
-        "img": "https://endolor.uz/services/26.jpg"
+        "img": "/images/services/service-26.jpg"
     },
     {
         "id": 27,
         "name": "Birlamchi ochiq rinoseptoplastika",
-        "img": "https://endolor.uz/services/27.jpg"
+        "img": "/images/services/service-27.jpg"
     },
     {
         "id": 28,
         "name": "Birlamchi ochiq rinoseptoplastika",
-        "img": "https://endolor.uz/services/28.jpg"
+        "img": "/images/services/service-28.jpg"
     },
     {
         "id": 29,
         "name": "Krasnojon usuli bo‘yicha bir tomondan mikrogaymorotomiya",
-        "img": "https://endolor.uz/services/29.jpg"
+        "img": "/images/services/service-29.jpg"
     },
     {
         "id": 30,
         "name": "Polisinusotomiya (Full FESS)",
-        "img": "https://endolor.uz/services/30.jpg"
+        "img": "/images/services/service-30.jpg"
     },
     {
         "id": 31,
         "name": "Antromastoidotomiya",
-        "img": "https://endolor.uz/services/31.jpg"
+        "img": "/images/services/service-31.jpg"
     },
     {
         "id": 32,
         "name": "Otoplastika",
-        "img": "https://endolor.uz/services/32.jpg"
+        "img": "/images/services/service-32.jpg"
     },
     {
         "id": 33,
         "name": "Stapedoplastika",
-        "img": "https://endolor.uz/services/33.jpg"
+        "img": "/images/services/service-33.jpg"
     }
       
     ]
@@ -183,39 +183,39 @@
     "serviceBtn": "Хизматдан фойдаланиш",
     "allBtn": "Барча хизматлар",
     "items": [
-      { "id": 1, "name": "Аденотомия (шайвер усулида, болалар)", "img": "https://endolor.uz/services/1.jpg" },
-  { "id": 2, "name": "Аденотомия (шайвер усулида, катталар)", "img": "https://endolor.uz/services/2.jpg" },
-  { "id": 3, "name": "Радиотўлқинли вазотомия", "img": "https://endolor.uz/services/3.jpg" },
-  { "id": 4, "name": "Эндоскопик радиотўлқинли вазотомия", "img": "https://endolor.uz/services/4.jpg" },
-  { "id": 5, "name": "Эндоскопик септопластика", "img": "https://endolor.uz/services/5.jpg" },
-  { "id": 6, "name": "Септопластика + эндоскопик радиотўлқинли вазотомия", "img": "https://endolor.uz/services/6.jpg" },
-  { "id": 7, "name": "Эндоскопик септопластика + эндоскопик радиотўлқинли вазотомия", "img": "https://endolor.uz/services/7.jpg" },
-  { "id": 8, "name": "Радиотўлқинли тонзиллотомия", "img": "https://endolor.uz/services/8.jpg" },
-  { "id": 9, "name": "Бир томондан эндоскопик эндоназал шайверли гайморотомия", "img": "https://endolor.uz/services/9.jpg" },
-  { "id": 10, "name": "Бир томондан эндоскопик эндоназал шайверли фронтотомия", "img": "https://endolor.uz/services/10.jpg" },
-  { "id": 11, "name": "Бир томондан эндоскопик эндоназал шайверли сфеноидотомия", "img": "https://endolor.uz/services/11.jpg" },
-  { "id": 12, "name": "Эндоскопик эндоназал шайверли полипотомия", "img": "https://endolor.uz/services/12.jpg" },
-  { "id": 13, "name": "Бир томондан эндоскопик эндоназал шайверли дакриоцисториностомия", "img": "https://endolor.uz/services/13.jpg" },
-  { "id": 14, "name": "Бир томондан парацентез", "img": "https://endolor.uz/services/14.jpg" },
-  { "id": 15, "name": "Бир томондан барабан пардасини шунтлаш", "img": "https://endolor.uz/services/15.jpg" },
-  { "id": 16, "name": "Бирламчи очиқ риносептопластика", "img": "https://endolor.uz/services/16.jpg" },
-  { "id": 17, "name": "Иккиламчи очиқ риносептопластика", "img": "https://endolor.uz/services/17.jpg" },
-  { "id": 18, "name": "Бир томондан қулоқнинг радикал операцияси", "img": "https://endolor.uz/services/18.jpg" },
-  { "id": 19, "name": "Бир томондан тимпанопластика", "img": "https://endolor.uz/services/19.jpg" },
-  { "id": 20, "name": "Бир томондан ташқи эшитув йўлидаги полипларни олиб ташлаш", "img": "https://endolor.uz/services/20.jpg" },
-  { "id": 21, "name": "Хурракда юмшоқ танглай ва тилча пластикаси", "img": "https://endolor.uz/services/21.jpg" },
-  { "id": 22, "name": "Бурун суякларини жойига қайтариш (репозиция)", "img": "https://endolor.uz/services/22.jpg" },
-  { "id": 23, "name": "Бурун тўсиғи томирларини куйдириш", "img": "https://endolor.uz/services/23.jpg" },
-  { "id": 24, "name": "Жароҳатларда барабан пардасини тиклаш", "img": "https://endolor.uz/services/24.jpg" },
-  { "id": 25, "name": "Наркоз", "img": "https://endolor.uz/services/25.jpg" },
-  { "id": 26, "name": "Септопластика", "img": "https://endolor.uz/services/26.jpg" },
-  { "id": 27, "name": "Бирламчи очиқ риносептопластика", "img": "https://endolor.uz/services/27.jpg" },
-  { "id": 28, "name": "Бирламчи очиқ риносептопластика", "img": "https://endolor.uz/services/28.jpg" },
-  { "id": 29, "name": "Красножон усули бўйича бир томондан микрогайморотомия", "img": "https://endolor.uz/services/29.jpg" },
-  { "id": 30, "name": "Полисинусотомия (Full FESS)", "img": "https://endolor.uz/services/30.jpg" },
-  { "id": 31, "name": "Антромастоидотомия", "img": "https://endolor.uz/services/31.jpg" },
-  { "id": 32, "name": "Отопластика", "img": "https://endolor.uz/services/32.jpg" },
-  { "id": 33, "name": "Стапедопластика", "img": "https://endolor.uz/services/33.jpg" }
+      { "id": 1, "name": "Аденотомия (шайвер усулида, болалар)", "img": "/images/services/service-1.jpg" },
+  { "id": 2, "name": "Аденотомия (шайвер усулида, катталар)", "img": "/images/services/service-2.jpg" },
+  { "id": 3, "name": "Радиотўлқинли вазотомия", "img": "/images/services/service-3.jpg" },
+  { "id": 4, "name": "Эндоскопик радиотўлқинли вазотомия", "img": "/images/services/service-4.jpg" },
+  { "id": 5, "name": "Эндоскопик септопластика", "img": "/images/services/service-5.jpg" },
+  { "id": 6, "name": "Септопластика + эндоскопик радиотўлқинли вазотомия", "img": "/images/services/service-6.jpg" },
+  { "id": 7, "name": "Эндоскопик септопластика + эндоскопик радиотўлқинли вазотомия", "img": "/images/services/service-7.jpg" },
+  { "id": 8, "name": "Радиотўлқинли тонзиллотомия", "img": "/images/services/service-8.jpg" },
+  { "id": 9, "name": "Бир томондан эндоскопик эндоназал шайверли гайморотомия", "img": "/images/services/service-9.jpg" },
+  { "id": 10, "name": "Бир томондан эндоскопик эндоназал шайверли фронтотомия", "img": "/images/services/service-10.jpg" },
+  { "id": 11, "name": "Бир томондан эндоскопик эндоназал шайверли сфеноидотомия", "img": "/images/services/service-11.jpg" },
+  { "id": 12, "name": "Эндоскопик эндоназал шайверли полипотомия", "img": "/images/services/service-12.jpg" },
+  { "id": 13, "name": "Бир томондан эндоскопик эндоназал шайверли дакриоцисториностомия", "img": "/images/services/service-13.jpg" },
+  { "id": 14, "name": "Бир томондан парацентез", "img": "/images/services/service-14.jpg" },
+  { "id": 15, "name": "Бир томондан барабан пардасини шунтлаш", "img": "/images/services/service-15.jpg" },
+  { "id": 16, "name": "Бирламчи очиқ риносептопластика", "img": "/images/services/service-16.jpg" },
+  { "id": 17, "name": "Иккиламчи очиқ риносептопластика", "img": "/images/services/service-17.jpg" },
+  { "id": 18, "name": "Бир томондан қулоқнинг радикал операцияси", "img": "/images/services/service-18.jpg" },
+  { "id": 19, "name": "Бир томондан тимпанопластика", "img": "/images/services/service-19.jpg" },
+  { "id": 20, "name": "Бир томондан ташқи эшитув йўлидаги полипларни олиб ташлаш", "img": "/images/services/service-20.jpg" },
+  { "id": 21, "name": "Хурракда юмшоқ танглай ва тилча пластикаси", "img": "/images/services/service-21.jpg" },
+  { "id": 22, "name": "Бурун суякларини жойига қайтариш (репозиция)", "img": "/images/services/service-22.jpg" },
+  { "id": 23, "name": "Бурун тўсиғи томирларини куйдириш", "img": "/images/services/service-23.jpg" },
+  { "id": 24, "name": "Жароҳатларда барабан пардасини тиклаш", "img": "/images/services/service-24.jpg" },
+  { "id": 25, "name": "Наркоз", "img": "/images/services/service-25.jpg" },
+  { "id": 26, "name": "Септопластика", "img": "/images/services/service-26.jpg" },
+  { "id": 27, "name": "Бирламчи очиқ риносептопластика", "img": "/images/services/service-27.jpg" },
+  { "id": 28, "name": "Бирламчи очиқ риносептопластика", "img": "/images/services/service-28.jpg" },
+  { "id": 29, "name": "Красножон усули бўйича бир томондан микрогайморотомия", "img": "/images/services/service-29.jpg" },
+  { "id": 30, "name": "Полисинусотомия (Full FESS)", "img": "/images/services/service-30.jpg" },
+  { "id": 31, "name": "Антромастоидотомия", "img": "/images/services/service-31.jpg" },
+  { "id": 32, "name": "Отопластика", "img": "/images/services/service-32.jpg" },
+  { "id": 33, "name": "Стапедопластика", "img": "/images/services/service-33.jpg" }
     ]
   },
   "ru": {
@@ -226,39 +226,39 @@
     "serviceBtn": "Воспользоваться услугой",
     "allBtn": "Все услуги",
     "items": [
-      { "id": 1, "name": "Аденотомия (шейверным методом, дети)", "img": "https://endolor.uz/services/1.jpg" },
-  { "id": 2, "name": "Аденотомия (шейверным методом, взрослые)", "img": "https://endolor.uz/services/2.jpg" },
-  { "id": 3, "name": "Радиоволновая вазотомия", "img": "https://endolor.uz/services/3.jpg" },
-  { "id": 4, "name": "Эндоскопическая радиоволновая вазотомия", "img": "https://endolor.uz/services/4.jpg" },
-  { "id": 5, "name": "Эндоскопическая септопластика", "img": "https://endolor.uz/services/5.jpg" },
-  { "id": 6, "name": "Септопластика + эндоскопическая радиоволновая вазотомия", "img": "https://endolor.uz/services/6.jpg" },
-  { "id": 7, "name": "Эндоскопическая септопластика + эндоскопическая радиоволновая вазотомия", "img": "https://endolor.uz/services/7.jpg" },
-  { "id": 8, "name": "Радиоволновая тонзиллотомия", "img": "https://endolor.uz/services/8.jpg" },
-  { "id": 9, "name": "Односторонняя эндоскопическая эндоназальная шейверная гайморотомия", "img": "https://endolor.uz/services/9.jpg" },
-  { "id": 10, "name": "Односторонняя эндоскопическая эндоназальная шейверная фронтотомия", "img": "https://endolor.uz/services/10.jpg" },
-  { "id": 11, "name": "Односторонняя эндоскопическая эндоназальная шейверная сфеноидотомия", "img": "https://endolor.uz/services/11.jpg" },
-  { "id": 12, "name": "Эндоскопическая эндоназальная шейверная полипотомия", "img": "https://endolor.uz/services/12.jpg" },
-  { "id": 13, "name": "Односторонняя эндоскопическая эндоназальная шейверная дакриоцисториностомия", "img": "https://endolor.uz/services/13.jpg" },
-  { "id": 14, "name": "Односторонний парацентез", "img": "https://endolor.uz/services/14.jpg" },
-  { "id": 15, "name": "Одностороннее шунтирование барабанной перепонки", "img": "https://endolor.uz/services/15.jpg" },
-  { "id": 16, "name": "Первичная открытая риносептопластика", "img": "https://endolor.uz/services/16.jpg" },
-  { "id": 17, "name": "Вторичная открытая риносептопластика", "img": "https://endolor.uz/services/17.jpg" },
-  { "id": 18, "name": "Односторонняя радикальная операция уха", "img": "https://endolor.uz/services/18.jpg" },
-  { "id": 19, "name": "Односторонняя тимпанопластика", "img": "https://endolor.uz/services/19.jpg" },
-  { "id": 20, "name": "Удаление полипов наружного слухового прохода (одностороннее)", "img": "https://endolor.uz/services/20.jpg" },
-  { "id": 21, "name": "Пластика мягкого неба и язычка при храпе", "img": "https://endolor.uz/services/21.jpg" },
-  { "id": 22, "name": "Репозиция костей носа", "img": "https://endolor.uz/services/22.jpg" },
-  { "id": 23, "name": "Коагуляция сосудов перегородки носа", "img": "https://endolor.uz/services/23.jpg" },
-  { "id": 24, "name": "Восстановление барабанной перепонки при травмах", "img": "https://endolor.uz/services/24.jpg" },
-  { "id": 25, "name": "Наркоз", "img": "https://endolor.uz/services/25.jpg" },
-  { "id": 26, "name": "Септопластика", "img": "https://endolor.uz/services/26.jpg" },
-  { "id": 27, "name": "Первичная открытая риносептопластика", "img": "https://endolor.uz/services/27.jpg" },
-  { "id": 28, "name": "Первичная открытая риносептопластика", "img": "https://endolor.uz/services/28.jpg" },
-  { "id": 29, "name": "Микрогайморотомия по методу Красножона (односторонняя)", "img": "https://endolor.uz/services/29.jpg" },
-  { "id": 30, "name": "Полисинусотомия (Full FESS)", "img": "https://endolor.uz/services/30.jpg" },
-  { "id": 31, "name": "Антромастоидотомия", "img": "https://endolor.uz/services/31.jpg" },
-  { "id": 32, "name": "Отопластика", "img": "https://endolor.uz/services/32.jpg" },
-  { "id": 33, "name": "Стапедопластика", "img": "https://endolor.uz/services/33.jpg" }
+      { "id": 1, "name": "Аденотомия (шейверным методом, дети)", "img": "/images/services/service-1.jpg" },
+  { "id": 2, "name": "Аденотомия (шейверным методом, взрослые)", "img": "/images/services/service-2.jpg" },
+  { "id": 3, "name": "Радиоволновая вазотомия", "img": "/images/services/service-3.jpg" },
+  { "id": 4, "name": "Эндоскопическая радиоволновая вазотомия", "img": "/images/services/service-4.jpg" },
+  { "id": 5, "name": "Эндоскопическая септопластика", "img": "/images/services/service-5.jpg" },
+  { "id": 6, "name": "Септопластика + эндоскопическая радиоволновая вазотомия", "img": "/images/services/service-6.jpg" },
+  { "id": 7, "name": "Эндоскопическая септопластика + эндоскопическая радиоволновая вазотомия", "img": "/images/services/service-7.jpg" },
+  { "id": 8, "name": "Радиоволновая тонзиллотомия", "img": "/images/services/service-8.jpg" },
+  { "id": 9, "name": "Односторонняя эндоскопическая эндоназальная шейверная гайморотомия", "img": "/images/services/service-9.jpg" },
+  { "id": 10, "name": "Односторонняя эндоскопическая эндоназальная шейверная фронтотомия", "img": "/images/services/service-10.jpg" },
+  { "id": 11, "name": "Односторонняя эндоскопическая эндоназальная шейверная сфеноидотомия", "img": "/images/services/service-11.jpg" },
+  { "id": 12, "name": "Эндоскопическая эндоназальная шейверная полипотомия", "img": "/images/services/service-12.jpg" },
+  { "id": 13, "name": "Односторонняя эндоскопическая эндоназальная шейверная дакриоцисториностомия", "img": "/images/services/service-13.jpg" },
+  { "id": 14, "name": "Односторонний парацентез", "img": "/images/services/service-14.jpg" },
+  { "id": 15, "name": "Одностороннее шунтирование барабанной перепонки", "img": "/images/services/service-15.jpg" },
+  { "id": 16, "name": "Первичная открытая риносептопластика", "img": "/images/services/service-16.jpg" },
+  { "id": 17, "name": "Вторичная открытая риносептопластика", "img": "/images/services/service-17.jpg" },
+  { "id": 18, "name": "Односторонняя радикальная операция уха", "img": "/images/services/service-18.jpg" },
+  { "id": 19, "name": "Односторонняя тимпанопластика", "img": "/images/services/service-19.jpg" },
+  { "id": 20, "name": "Удаление полипов наружного слухового прохода (одностороннее)", "img": "/images/services/service-20.jpg" },
+  { "id": 21, "name": "Пластика мягкого неба и язычка при храпе", "img": "/images/services/service-21.jpg" },
+  { "id": 22, "name": "Репозиция костей носа", "img": "/images/services/service-22.jpg" },
+  { "id": 23, "name": "Коагуляция сосудов перегородки носа", "img": "/images/services/service-23.jpg" },
+  { "id": 24, "name": "Восстановление барабанной перепонки при травмах", "img": "/images/services/service-24.jpg" },
+  { "id": 25, "name": "Наркоз", "img": "/images/services/service-25.jpg" },
+  { "id": 26, "name": "Септопластика", "img": "/images/services/service-26.jpg" },
+  { "id": 27, "name": "Первичная открытая риносептопластика", "img": "/images/services/service-27.jpg" },
+  { "id": 28, "name": "Первичная открытая риносептопластика", "img": "/images/services/service-28.jpg" },
+  { "id": 29, "name": "Микрогайморотомия по методу Красножона (односторонняя)", "img": "/images/services/service-29.jpg" },
+  { "id": 30, "name": "Полисинусотомия (Full FESS)", "img": "/images/services/service-30.jpg" },
+  { "id": 31, "name": "Антромастоидотомия", "img": "/images/services/service-31.jpg" },
+  { "id": 32, "name": "Отопластика", "img": "/images/services/service-32.jpg" },
+  { "id": 33, "name": "Стапедопластика", "img": "/images/services/service-33.jpg" }
     ]
   },
   "en": {
@@ -269,39 +269,39 @@
     "serviceBtn": "Use this service",
     "allBtn": "All Services",
     "items": [
-      { "id": 1, "name": "Adenotomy (shaver method, children)", "img": "https://endolor.uz/services/1.jpg" },
-  { "id": 2, "name": "Adenotomy (shaver method, adults)", "img": "https://endolor.uz/services/2.jpg" },
-  { "id": 3, "name": "Radiofrequency vasotomy", "img": "https://endolor.uz/services/3.jpg" },
-  { "id": 4, "name": "Endoscopic radiofrequency vasotomy", "img": "https://endolor.uz/services/4.jpg" },
-  { "id": 5, "name": "Endoscopic septoplasty", "img": "https://endolor.uz/services/5.jpg" },
-  { "id": 6, "name": "Septoplasty + endoscopic radiofrequency vasotomy", "img": "https://endolor.uz/services/6.jpg" },
-  { "id": 7, "name": "Endoscopic septoplasty + endoscopic radiofrequency vasotomy", "img": "https://endolor.uz/services/7.jpg" },
-  { "id": 8, "name": "Radiofrequency tonsillotomy", "img": "https://endolor.uz/services/8.jpg" },
-  { "id": 9, "name": "Unilateral endoscopic endonasal shaver-assisted maxillary sinusotomy", "img": "https://endolor.uz/services/9.jpg" },
-  { "id": 10, "name": "Unilateral endoscopic endonasal shaver-assisted frontotomy", "img": "https://endolor.uz/services/10.jpg" },
-  { "id": 11, "name": "Unilateral endoscopic endonasal shaver-assisted sphenoidotomy", "img": "https://endolor.uz/services/11.jpg" },
-  { "id": 12, "name": "Endoscopic endonasal shaver-assisted polypectomy", "img": "https://endolor.uz/services/12.jpg" },
-  { "id": 13, "name": "Unilateral endoscopic endonasal shaver-assisted dacryocystorhinostomy", "img": "https://endolor.uz/services/13.jpg" },
-  { "id": 14, "name": "Unilateral paracentesis", "img": "https://endolor.uz/services/14.jpg" },
-  { "id": 15, "name": "Unilateral tympanic membrane shunting", "img": "https://endolor.uz/services/15.jpg" },
-  { "id": 16, "name": "Primary open rhinoseptoplasty", "img": "https://endolor.uz/services/16.jpg" },
-  { "id": 17, "name": "Secondary open rhinoseptoplasty", "img": "https://endolor.uz/services/17.jpg" },
-  { "id": 18, "name": "Unilateral radical ear surgery", "img": "https://endolor.uz/services/18.jpg" },
-  { "id": 19, "name": "Unilateral tympanoplasty", "img": "https://endolor.uz/services/19.jpg" },
-  { "id": 20, "name": "Removal of polyps from the external auditory canal (unilateral)", "img": "https://endolor.uz/services/20.jpg" },
-  { "id": 21, "name": "Soft palate and uvula surgery for snoring", "img": "https://endolor.uz/services/21.jpg" },
-  { "id": 22, "name": "Nasal bone reposition (reposition)", "img": "https://endolor.uz/services/22.jpg" },
-  { "id": 23, "name": "Cauterization of nasal septum vessels", "img": "https://endolor.uz/services/23.jpg" },
-  { "id": 24, "name": "Tympanic membrane repair after trauma", "img": "https://endolor.uz/services/24.jpg" },
-  { "id": 25, "name": "Anesthesia", "img": "https://endolor.uz/services/25.jpg" },
-  { "id": 26, "name": "Septoplasty", "img": "https://endolor.uz/services/26.jpg" },
-  { "id": 27, "name": "Primary open rhinoseptoplasty", "img": "https://endolor.uz/services/27.jpg" },
-  { "id": 28, "name": "Primary open rhinoseptoplasty", "img": "https://endolor.uz/services/28.jpg" },
-  { "id": 29, "name": "Micro maxillary sinusotomy by Krasnozhen method (unilateral)", "img": "https://endolor.uz/services/29.jpg" },
-  { "id": 30, "name": "Polysinusotomy (Full FESS)", "img": "https://endolor.uz/services/30.jpg" },
-  { "id": 31, "name": "Antromastoidotomy", "img": "https://endolor.uz/services/31.jpg" },
-  { "id": 32, "name": "Otoplasty", "img": "https://endolor.uz/services/32.jpg" },
-  { "id": 33, "name": "Stapedoplasty", "img": "https://endolor.uz/services/33.jpg" }
+      { "id": 1, "name": "Adenotomy (shaver method, children)", "img": "/images/services/service-1.jpg" },
+  { "id": 2, "name": "Adenotomy (shaver method, adults)", "img": "/images/services/service-2.jpg" },
+  { "id": 3, "name": "Radiofrequency vasotomy", "img": "/images/services/service-3.jpg" },
+  { "id": 4, "name": "Endoscopic radiofrequency vasotomy", "img": "/images/services/service-4.jpg" },
+  { "id": 5, "name": "Endoscopic septoplasty", "img": "/images/services/service-5.jpg" },
+  { "id": 6, "name": "Septoplasty + endoscopic radiofrequency vasotomy", "img": "/images/services/service-6.jpg" },
+  { "id": 7, "name": "Endoscopic septoplasty + endoscopic radiofrequency vasotomy", "img": "/images/services/service-7.jpg" },
+  { "id": 8, "name": "Radiofrequency tonsillotomy", "img": "/images/services/service-8.jpg" },
+  { "id": 9, "name": "Unilateral endoscopic endonasal shaver-assisted maxillary sinusotomy", "img": "/images/services/service-9.jpg" },
+  { "id": 10, "name": "Unilateral endoscopic endonasal shaver-assisted frontotomy", "img": "/images/services/service-10.jpg" },
+  { "id": 11, "name": "Unilateral endoscopic endonasal shaver-assisted sphenoidotomy", "img": "/images/services/service-11.jpg" },
+  { "id": 12, "name": "Endoscopic endonasal shaver-assisted polypectomy", "img": "/images/services/service-12.jpg" },
+  { "id": 13, "name": "Unilateral endoscopic endonasal shaver-assisted dacryocystorhinostomy", "img": "/images/services/service-13.jpg" },
+  { "id": 14, "name": "Unilateral paracentesis", "img": "/images/services/service-14.jpg" },
+  { "id": 15, "name": "Unilateral tympanic membrane shunting", "img": "/images/services/service-15.jpg" },
+  { "id": 16, "name": "Primary open rhinoseptoplasty", "img": "/images/services/service-16.jpg" },
+  { "id": 17, "name": "Secondary open rhinoseptoplasty", "img": "/images/services/service-17.jpg" },
+  { "id": 18, "name": "Unilateral radical ear surgery", "img": "/images/services/service-18.jpg" },
+  { "id": 19, "name": "Unilateral tympanoplasty", "img": "/images/services/service-19.jpg" },
+  { "id": 20, "name": "Removal of polyps from the external auditory canal (unilateral)", "img": "/images/services/service-20.jpg" },
+  { "id": 21, "name": "Soft palate and uvula surgery for snoring", "img": "/images/services/service-21.jpg" },
+  { "id": 22, "name": "Nasal bone reposition (reposition)", "img": "/images/services/service-22.jpg" },
+  { "id": 23, "name": "Cauterization of nasal septum vessels", "img": "/images/services/service-23.jpg" },
+  { "id": 24, "name": "Tympanic membrane repair after trauma", "img": "/images/services/service-24.jpg" },
+  { "id": 25, "name": "Anesthesia", "img": "/images/services/service-25.jpg" },
+  { "id": 26, "name": "Septoplasty", "img": "/images/services/service-26.jpg" },
+  { "id": 27, "name": "Primary open rhinoseptoplasty", "img": "/images/services/service-27.jpg" },
+  { "id": 28, "name": "Primary open rhinoseptoplasty", "img": "/images/services/service-28.jpg" },
+  { "id": 29, "name": "Micro maxillary sinusotomy by Krasnozhen method (unilateral)", "img": "/images/services/service-29.jpg" },
+  { "id": 30, "name": "Polysinusotomy (Full FESS)", "img": "/images/services/service-30.jpg" },
+  { "id": 31, "name": "Antromastoidotomy", "img": "/images/services/service-31.jpg" },
+  { "id": 32, "name": "Otoplasty", "img": "/images/services/service-32.jpg" },
+  { "id": 33, "name": "Stapedoplasty", "img": "/images/services/service-33.jpg" }
     ]
   }
 }

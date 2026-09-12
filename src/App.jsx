@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
@@ -10,19 +10,29 @@ import Videos from './pages/Videos'
 import Contact from './pages/Contact'
 import translations from './data/translations'
 
+function ScrollToTop() {
+  const { pathname } = useLocation()
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [pathname])
+  return null
+}
+
 function AppContent({ lang, setLang }) {
   const t = translations[lang]
   const location = useLocation()
+  const isHome = location.pathname === '/'
 
   return (
     <div className="min-h-screen bg-white">
+      <ScrollToTop />
       <Navbar lang={lang} setLang={setLang} />
 
-      {/* Hero faqat bosh sahifada ko'rinadi */}
-      {location.pathname === '/' && <Hero lang={lang} t={t} />}
+      {/* Spacer for fixed navbar (top bar + main nav) */}
+      <div className="h-[72px] md:h-[108px]" />
 
-      {/* Boshqa sahifalarda navbar ostida bo'sh joy */}
-      {location.pathname !== '/' && <div className="h-[70px]" />}
+      {/* Hero only on home page */}
+      {isHome && <Hero lang={lang} t={t} />}
 
       <Routes>
         <Route path="/" element={<Home lang={lang} t={t} />} />
