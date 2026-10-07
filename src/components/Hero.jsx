@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Link } from 'react-router-dom'
+import Link from './LocalizedLink'
 
 const slideImages = [
   '/images/hero/hero1.webp',

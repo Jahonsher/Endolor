@@ -1,8 +1,9 @@
 import { useState } from 'react'
-import { Link } from 'react-router-dom'
+import Link from '../components/LocalizedLink'
 import operationsData from '../data/operations.json'
 import videosData from '../data/videos.json'
 import { sendToTelegram } from '../utils/sendToTelegram'
+import CertificatesSection from '../components/CertificatesSection'
 
 // ===============================
 // Intro / "Biz haqimizda" Section
@@ -564,6 +565,7 @@ export default function Home({ lang, t }) {
     <div>
       <IntroSection t={t} onOpenModal={openModal} />
       <OperationsSection lang={lang} onOpenModal={openModal} />
+      <CertificatesSection lang={lang} />
       <FeaturesSection />
       <StatsSection t={t} />
       <VideosPreviewSection lang={lang} />

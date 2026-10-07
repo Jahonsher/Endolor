@@ -1,12 +1,14 @@
 import { useState, useEffect } from 'react'
-import { Link, useLocation } from 'react-router-dom'
+import { useLocation } from 'react-router-dom'
+import Link from './LocalizedLink'
 import translations from '../data/translations'
+import { getLanguageRoute } from '../utils/languageRouting'
 
 const langConfig = [
-  { code: 'uz', label: 'UZ', flag: '🇺🇿' },
-  { code: 'oz', label: 'Ўз', flag: '🇺🇿' },
-  { code: 'ru', label: 'RU', flag: '🇷🇺' },
-  { code: 'en', label: 'EN', flag: '🇬🇧' },
+  { code: 'uz', label: 'UZ' },
+  { code: 'oz', label: 'Ўз' },
+  { code: 'ru', label: 'РУ' },
+  { code: 'en', label: 'EN' },
 ]
 
 const navLinks = [
@@ -22,6 +24,7 @@ export default function Navbar({ lang, setLang }) {
   const [mobileOpen, setMobileOpen] = useState(false)
   const t = translations[lang].nav
   const location = useLocation()
+  const pagePath = getLanguageRoute(location.pathname).pagePath.replace(/\/+$/, '') || '/'
 
   useEffect(() => {
     const handleScroll = () => setScrolled(window.scrollY > 40)
@@ -85,13 +88,13 @@ export default function Navbar({ lang, setLang }) {
                   key={link.key}
                   to={link.to}
                   className={`relative text-[14px] font-bold transition-colors py-2 ${
-                    location.pathname === link.to
+                    pagePath === link.to
                       ? 'text-[#0C5ADB]'
                       : 'text-[#041424] hover:text-[#0C5ADB]'
                   }`}
                 >
                   {t[link.key]}
-                  {location.pathname === link.to && (
+                  {pagePath === link.to && (
                     <span className="absolute -bottom-1 left-0 right-0 h-[3px] rounded-full bg-[#0C5ADB]" />
                   )}
                 </Link>
@@ -124,7 +127,6 @@ export default function Navbar({ lang, setLang }) {
                         : 'text-[#5b6675] hover:text-[#0C5ADB]'
                     }`}
                   >
-                    <span className="text-sm">{l.flag}</span>
                     {l.label}
                   </button>
                 ))}
@@ -163,7 +165,7 @@ export default function Navbar({ lang, setLang }) {
                 to={link.to}
                 onClick={() => setMobileOpen(false)}
                 className={`block text-[15px] font-bold py-3 border-b border-[#f1f5fd] ${
-                  location.pathname === link.to
+                  pagePath === link.to
                     ? 'text-[#0C5ADB]'
                     : 'text-[#041424] hover:text-[#0C5ADB]'
                 }`}
@@ -190,7 +192,6 @@ export default function Navbar({ lang, setLang }) {
                       : 'text-[#5b6675] hover:text-[#0C5ADB]'
                   }`}
                 >
-                  <span className="text-sm">{l.flag}</span>
                   {l.label}
                 </button>
               ))}

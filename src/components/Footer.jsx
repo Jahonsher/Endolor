@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom'
+import Link from './LocalizedLink'
 import translations from '../data/translations'
 
 export default function Footer({ lang }) {

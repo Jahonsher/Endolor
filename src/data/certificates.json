@@ -1,0 +1,464 @@
+[
+  {
+    "id": "certificate-01",
+    "meta": "17–19.03.2022 · Dubai",
+    "title": {
+      "uz": "Yaqin Sharq LOR akademiyasi — 2022",
+      "oz": "Йақин Шарқ ЛОР академийаси — 2022",
+      "ru": "Ближневосточная академия ЛОР — 2022",
+      "en": "Middle East ENT Academy — 2022"
+    },
+    "description": {
+      "uz": "Yaqin Sharq otorinolaringologiya akademiyasining bosh va bo‘yin jarrohligiga bag‘ishlangan anjumanida qatnashgani uchun berilgan.",
+      "oz": "Йақин Шарқ оториноларингологийа академийасининг бош ва бўйин жарроҳлигига бағишланган анжуманида қатнашгани учун берилган.",
+      "ru": "Выдан за участие в конференции Ближневосточной академии оториноларингологии по хирургии головы и шеи.",
+      "en": "Awarded for attending the Middle East Academy of Otolaryngology, Head and Neck Surgery meeting."
+    },
+    "thumbnail": "/certificates/certificate-01-thumb.webp",
+    "images": [
+      "/certificates/certificate-01-1.webp"
+    ],
+    "pdf": "/certificates/certificate-01.pdf"
+  },
+  {
+    "id": "certificate-02",
+    "meta": "26–28.05.2023 · Dubai",
+    "title": {
+      "uz": "Yaqin Sharq LOR akademiyasi — 2023",
+      "oz": "Йақин Шарқ ЛОР академийаси — 2023",
+      "ru": "Ближневосточная академия ЛОР — 2023",
+      "en": "Middle East ENT Academy — 2023"
+    },
+    "description": {
+      "uz": "Akademiyaning 18-yillik anjumanida qatnashgani uchun berilgan. Hujjatda Dubai Health Authority tomonidan 20,5 CPD kredit soati qayd etilgan.",
+      "oz": "Академийанинг 18-йиллик анжуманида қатнашгани учун берилган. Ҳужжатда Дубаи Ҳеалтҳ Аутҳоритй томонидан 20,5 CПД кредит соати қайд етилган.",
+      "ru": "За участие в 18-й ежегодной конференции академии. В сертификате указаны 20,5 кредитных часов CPD Dubai Health Authority.",
+      "en": "For attending the academy’s 18th annual meeting, with 20.5 CPD credit hours accredited by the Dubai Health Authority."
+    },
+    "thumbnail": "/certificates/certificate-02-thumb.webp",
+    "images": [
+      "/certificates/certificate-02-1.webp"
+    ],
+    "pdf": "/certificates/certificate-02.pdf"
+  },
+  {
+    "id": "certificate-03",
+    "meta": "YO-IFOS",
+    "title": {
+      "uz": "YO-IFOS a’zolik sertifikati",
+      "oz": "ЙО-ИФОС аъзолик сертификати",
+      "ru": "Сертификат членства YO-IFOS",
+      "en": "YO-IFOS membership"
+    },
+    "description": {
+      "uz": "Xalqaro otorinolaringologiya jamiyatlari federatsiyasining yosh otorinolaringologlar bo‘limi — YO-IFOS a’zoligini tasdiqlaydi.",
+      "oz": "Халқаро оториноларингологийа жамийатлари федератсийасининг йош оториноларингологлар бўлими — ЙО-ИФОС аъзолигини тасдиқлайди.",
+      "ru": "Подтверждает членство в молодёжном объединении Международной федерации оториноларингологических обществ — YO-IFOS.",
+      "en": "Confirms membership in the Young Otolaryngologists of the International Federation of Oto-rhino-laryngological Societies (YO-IFOS)."
+    },
+    "thumbnail": "/certificates/certificate-03-thumb.webp",
+    "images": [
+      "/certificates/certificate-03-1.webp"
+    ],
+    "pdf": "/certificates/certificate-03.pdf"
+  },
+  {
+    "id": "certificate-04",
+    "meta": "2024 · Dubai",
+    "title": {
+      "uz": "Chakka suyagi va eshitish implantlari kursi",
+      "oz": "Чакка суйаги ва ешитиш имплантлари курси",
+      "ru": "Курс по височной кости и слуховым имплантам",
+      "en": "Temporal bone and hearing implants course"
+    },
+    "description": {
+      "uz": "EROC 2024 doirasidagi chakka suyagi disseksiyasi va eshitish implantlari bo‘yicha 11-amaliy kursda qatnashgani uchun berilgan.",
+      "oz": "ЕРОC 2024 доирасидаги чакка суйаги диссексийаси ва ешитиш имплантлари бўйича 11-амалий курсда қатнашгани учун берилган.",
+      "ru": "За участие в 11-м практическом курсе по диссекции височной кости и слуховым имплантам в рамках EROC 2024.",
+      "en": "Awarded for attending the 11th Temporal Bone Dissection Course with Hands-on Hearing Implant at EROC 2024."
+    },
+    "thumbnail": "/certificates/certificate-04-thumb.webp",
+    "images": [
+      "/certificates/certificate-04-1.webp"
+    ],
+    "pdf": "/certificates/certificate-04.pdf"
+  },
+  {
+    "id": "certificate-05",
+    "meta": "17–19.01.2024 · Dubai",
+    "title": {
+      "uz": "EROC 2024 xalqaro kongressi",
+      "oz": "ЕРОC 2024 халқаро конгресси",
+      "ru": "Международный конгресс EROC 2024",
+      "en": "EROC 2024 international congress"
+    },
+    "description": {
+      "uz": "Otorinolaringologiya, audiologiya, yutish va kommunikatsiya buzilishlariga bag‘ishlangan 13-kongressda ishtirok etgani uchun berilgan.",
+      "oz": "Оториноларингологийа, аудиологийа, йутиш ва коммуникатсийа бузилишларига бағишланган 13-конгрессда иштирок етгани учун берилган.",
+      "ru": "За участие в 13-м конгрессе по оториноларингологии, аудиологии, нарушениям глотания и коммуникации.",
+      "en": "Awarded for attending the 13th congress on otorhinolaryngology, audiology, swallowing and communication disorders."
+    },
+    "thumbnail": "/certificates/certificate-05-thumb.webp",
+    "images": [
+      "/certificates/certificate-05-1.webp"
+    ],
+    "pdf": "/certificates/certificate-05.pdf"
+  },
+  {
+    "id": "certificate-06",
+    "meta": "12.01.2024 · APOST–CUHK",
+    "title": {
+      "uz": "Mikroskopik va endoskopik quloq jarrohligi",
+      "oz": "Микроскопик ва ендоскопик қулоқ жарроҳлиги",
+      "ru": "Микроскопическая и эндоскопическая отохирургия",
+      "en": "Microscopic and endoscopic ear surgery"
+    },
+    "description": {
+      "uz": "APOST–CUHK tomonidan tashkil etilgan chakka suyagi mikroskopik va endoskopik jarrohligi kursining jonli namoyish dasturini tamomlagani uchun berilgan.",
+      "oz": "АПОСТ–CУҲК томонидан ташкил етилган чакка суйаги микроскопик ва ендоскопик жарроҳлиги курсининг жонли намойиш дастурини тамомлагани учун берилган.",
+      "ru": "За прохождение прямой трансляции демонстрационного курса APOST–CUHK по микроскопической и эндоскопической хирургии височной кости.",
+      "en": "For completing the APOST–CUHK live demonstration broadcast of the Microscopic & Endoscopic Temporal Bone Course 2024."
+    },
+    "thumbnail": "/certificates/certificate-06-thumb.webp",
+    "images": [
+      "/certificates/certificate-06-1.webp"
+    ],
+    "pdf": "/certificates/certificate-06.pdf"
+  },
+  {
+    "id": "certificate-07",
+    "meta": "17–21.01.2023 · Dubai",
+    "title": {
+      "uz": "IFOS 2023 jahon LOR kongressi",
+      "oz": "ИФОС 2023 жаҳон ЛОР конгресси",
+      "ru": "Всемирный ЛОР-конгресс IFOS 2023",
+      "en": "IFOS 2023 ENT World Congress"
+    },
+    "description": {
+      "uz": "Dubayda o‘tkazilgan IFOS 2023 jahon otorinolaringologiya kongressida qatnashgani uchun berilgan ishtirok sertifikati.",
+      "oz": "Дубайда ўтказилган ИФОС 2023 жаҳон оториноларингологийа конгрессида қатнашгани учун берилган иштирок сертификати.",
+      "ru": "Сертификат участия во Всемирном конгрессе оториноларингологов IFOS 2023 в Дубае.",
+      "en": "Certificate of attendance at the IFOS Dubai ENT World Congress 2023."
+    },
+    "thumbnail": "/certificates/certificate-07-thumb.webp",
+    "images": [
+      "/certificates/certificate-07-1.webp"
+    ],
+    "pdf": "/certificates/certificate-07.pdf"
+  },
+  {
+    "id": "certificate-08",
+    "meta": "18–21.01.2023 · EACCME",
+    "title": {
+      "uz": "IFOS 2023 — 25 Yevropa CME krediti",
+      "oz": "ИФОС 2023 — 25 Йевропа CМЕ кредити",
+      "ru": "IFOS 2023 — 25 европейских кредитов CME",
+      "en": "IFOS 2023 — 25 European CME credits"
+    },
+    "description": {
+      "uz": "IFOS Dubay kongressidagi ishtiroki uchun EACCME tizimida 25 Yevropa uzluksiz tibbiy ta’lim krediti berilganini tasdiqlaydi.",
+      "oz": "ИФОС Дубай конгрессидаги иштироки учун ЕАCCМЕ тизимида 25 Йевропа узлуксиз тиббий таълим кредити берилганини тасдиқлайди.",
+      "ru": "Подтверждает получение 25 европейских кредитов непрерывного медицинского образования EACCME за участие в конгрессе IFOS в Дубае.",
+      "en": "Confirms the award of 25 European CME credits through EACCME for attendance at the IFOS Dubai congress."
+    },
+    "thumbnail": "/certificates/certificate-08-thumb.webp",
+    "images": [
+      "/certificates/certificate-08-1.webp"
+    ],
+    "pdf": "/certificates/certificate-08.pdf"
+  },
+  {
+    "id": "certificate-10",
+    "meta": "31.10–02.11.2023 · Dubai",
+    "title": {
+      "uz": "Dubai Otology 2023",
+      "oz": "Дубаи Отологй 2023",
+      "ru": "Dubai Otology 2023",
+      "en": "Dubai Otology 2023"
+    },
+    "description": {
+      "uz": "Otologiya, neyrootologiya va kalla asosi jarrohligi bo‘yicha Dubai Otology 2023 konferensiyasida qatnashgani uchun berilgan.",
+      "oz": "Отологийа, нейроотологийа ва калла асоси жарроҳлиги бўйича Дубаи Отологй 2023 конференсийасида қатнашгани учун берилган.",
+      "ru": "За участие в конференции Dubai Otology 2023 по отологии, нейроотологии и хирургии основания черепа.",
+      "en": "Awarded for attending the Dubai Otology, Neurotology and Skull Base Surgery Conference 2023."
+    },
+    "thumbnail": "/certificates/certificate-10-thumb.webp",
+    "images": [
+      "/certificates/certificate-10-1.webp"
+    ],
+    "pdf": "/certificates/certificate-10.pdf"
+  },
+  {
+    "id": "certificate-11",
+    "meta": "04–05.12.2024 · Muscat",
+    "title": {
+      "uz": "Chakka suyagi jarrohligi amaliy kursi",
+      "oz": "Чакка суйаги жарроҳлиги амалий курси",
+      "ru": "Практический курс хирургии височной кости",
+      "en": "Temporal bone dissection course"
+    },
+    "description": {
+      "uz": "Sulton Qobus universitetida endoskopik va mikroskopik chakka suyagi disseksiyasi kursida qatnashgani uchun berilgan. Hujjatda 12 CPD krediti ko‘rsatilgan.",
+      "oz": "Султон Қобус университетида ендоскопик ва микроскопик чакка суйаги диссексийаси курсида қатнашгани учун берилган. Ҳужжатда 12 CПД кредити кўрсатилган.",
+      "ru": "За участие в курсе эндоскопической и микроскопической диссекции височной кости в Университете Султана Кабуса. Указаны 12 кредитов CPD.",
+      "en": "For attending the endoscopic and microscopic temporal bone dissection course at Sultan Qaboos University, with 12 CPD credits listed."
+    },
+    "thumbnail": "/certificates/certificate-11-thumb.webp",
+    "images": [
+      "/certificates/certificate-11-1.webp"
+    ],
+    "pdf": "/certificates/certificate-11.pdf"
+  },
+  {
+    "id": "certificate-12",
+    "meta": "02–03.12.2024 · Muscat",
+    "title": {
+      "uz": "Endoskopik sinus jarrohligi kursi",
+      "oz": "Ендоскопик синус жарроҳлиги курси",
+      "ru": "Курс эндоскопической хирургии пазух",
+      "en": "Endoscopic sinus surgery course"
+    },
+    "description": {
+      "uz": "Sulton Qobus universitetining endoskopik sinus jarrohligi bo‘yicha keng qamrovli amaliy kursida qatnashgani uchun berilgan. Hujjatda 10 CPD krediti qayd etilgan.",
+      "oz": "Султон Қобус университетининг ендоскопик синус жарроҳлиги бўйича кенг қамровли амалий курсида қатнашгани учун берилган. Ҳужжатда 10 CПД кредити қайд етилган.",
+      "ru": "За участие в комплексном практическом курсе эндоскопической хирургии пазух в Университете Султана Кабуса. Указаны 10 кредитов CPD.",
+      "en": "For attending the comprehensive endoscopic sinus surgery dissection course at Sultan Qaboos University, with 10 CPD credits listed."
+    },
+    "thumbnail": "/certificates/certificate-12-thumb.webp",
+    "images": [
+      "/certificates/certificate-12-1.webp"
+    ],
+    "pdf": "/certificates/certificate-12.pdf"
+  },
+  {
+    "id": "certificate-13",
+    "meta": "19–21.04.2024 · Dubai",
+    "title": {
+      "uz": "Yaqin Sharq LOR akademiyasi — 2024",
+      "oz": "Йақин Шарқ ЛОР академийаси — 2024",
+      "ru": "Ближневосточная академия ЛОР — 2024",
+      "en": "Middle East ENT Academy — 2024"
+    },
+    "description": {
+      "uz": "Akademiyaning 19-yillik anjumanidagi ishtiroki uchun berilgan. Hujjatda 20,75 CME/CPD krediti ko‘rsatilgan.",
+      "oz": "Академийанинг 19-йиллик анжуманидаги иштироки учун берилган. Ҳужжатда 20,75 CМЕ/CПД кредити кўрсатилган.",
+      "ru": "За участие в 19-й ежегодной конференции академии. В документе указаны 20,75 кредита CME/CPD.",
+      "en": "Awarded for attending the academy’s 19th annual meeting, with 20.75 CME/CPD credits listed."
+    },
+    "thumbnail": "/certificates/certificate-13-thumb.webp",
+    "images": [
+      "/certificates/certificate-13-1.webp"
+    ],
+    "pdf": "/certificates/certificate-13.pdf"
+  },
+  {
+    "id": "certificate-14",
+    "meta": "29–31.10.2024 · Dubai",
+    "title": {
+      "uz": "Dubai Otology 2024",
+      "oz": "Дубаи Отологй 2024",
+      "ru": "Dubai Otology 2024",
+      "en": "Dubai Otology 2024"
+    },
+    "description": {
+      "uz": "Otologiya, neyrootologiya va kalla asosi jarrohligi konferensiyasida qatnashgani uchun berilgan uzluksiz ta’lim sertifikati. Hujjatda 21 CPD krediti ko‘rsatilgan.",
+      "oz": "Отологийа, нейроотологийа ва калла асоси жарроҳлиги конференсийасида қатнашгани учун берилган узлуксиз таълим сертификати. Ҳужжатда 21 CПД кредити кўрсатилган.",
+      "ru": "Сертификат непрерывного образования за участие в конференции по отологии, нейроотологии и хирургии основания черепа. Указан 21 кредит CPD.",
+      "en": "Continuing education certificate for attending the otology, neurotology and skull base surgery conference, listing 21 CPD credits."
+    },
+    "thumbnail": "/certificates/certificate-14-thumb.webp",
+    "images": [
+      "/certificates/certificate-14-1.webp"
+    ],
+    "pdf": "/certificates/certificate-14.pdf"
+  },
+  {
+    "id": "certificate-15",
+    "meta": "24.04.2024 · Dubai",
+    "title": {
+      "uz": "21-TSESI amaliy quloq jarrohligi kursi",
+      "oz": "21-ТСЕСИ амалий қулоқ жарроҳлиги курси",
+      "ru": "21-й практический курс отохирургии TSESI",
+      "en": "21st TSESI hands-on ear course"
+    },
+    "description": {
+      "uz": "21-TSESI amaliy disseksiya kursining quloq jarrohligi dasturida qatnashgani uchun berilgan. Hujjatda 4,75 CPD krediti ko‘rsatilgan.",
+      "oz": "21-ТСЕСИ амалий диссексийа курсининг қулоқ жарроҳлиги дастурида қатнашгани учун берилган. Ҳужжатда 4,75 CПД кредити кўрсатилган.",
+      "ru": "За участие в программе отохирургии 21-го практического диссекционного курса TSESI. Указаны 4,75 кредита CPD.",
+      "en": "For attending the ear surgery programme of the 21st TSESI hands-on cadaver dissection course, with 4.75 CPD credits listed."
+    },
+    "thumbnail": "/certificates/certificate-15-thumb.webp",
+    "images": [
+      "/certificates/certificate-15-1.webp"
+    ],
+    "pdf": "/certificates/certificate-15.pdf"
+  },
+  {
+    "id": "certificate-16-2",
+    "meta": "13–16.03.2022 · Sharjah",
+    "title": {
+      "uz": "19-TSESI amaliy disseksiya kursi",
+      "oz": "19-ТСЕСИ амалий диссексийа курси",
+      "ru": "19-й практический диссекционный курс TSESI",
+      "en": "19th TSESI hands-on dissection course"
+    },
+    "description": {
+      "uz": "19-TSESI amaliy disseksiya kursida qatnashgani uchun berilgan. Sertifikatda 24 CPD krediti ko‘rsatilgan.",
+      "oz": "19-ТСЕСИ амалий диссексийа курсида қатнашгани учун берилган. Сертификатда 24 CПД кредити кўрсатилган.",
+      "ru": "За участие в 19-м практическом диссекционном курсе TSESI. В сертификате указаны 24 кредита CPD.",
+      "en": "For attending the 19th TSESI hands-on cadaver dissection course, with 24 CPD credits listed."
+    },
+    "thumbnail": "/certificates/certificate-16-2-thumb.webp",
+    "images": [
+      "/certificates/certificate-16-2.webp"
+    ],
+    "pdf": null
+  },
+  {
+    "id": "certificate-16-3",
+    "meta": "MOSCADAVER",
+    "title": {
+      "uz": "Quloq mikrojarrohligi amaliy dasturi",
+      "oz": "Қулоқ микрожарроҳлиги амалий дастури",
+      "ru": "Практическая программа микрохирургии уха",
+      "en": "Ear microsurgery training programme"
+    },
+    "description": {
+      "uz": "Quloq mikrojarrohligi bo‘yicha kadaver o‘quv dasturida ishtirok etganini tasdiqlovchi sertifikat.",
+      "oz": "Қулоқ микрожарроҳлиги бўйича кадавер ўқув дастурида иштирок етганини тасдиқловчи сертификат.",
+      "ru": "Подтверждает участие в учебной программе кадаверного курса по микрохирургии уха.",
+      "en": "Confirms participation in a cadaver training programme on ear microsurgery."
+    },
+    "thumbnail": "/certificates/certificate-16-3-thumb.webp",
+    "images": [
+      "/certificates/certificate-16-3.webp"
+    ],
+    "pdf": null
+  },
+  {
+    "id": "certificate-16-4",
+    "meta": "29–31.05.2023 · Dubai",
+    "title": {
+      "uz": "20-TSESI amaliy disseksiya kursi",
+      "oz": "20-ТСЕСИ амалий диссексийа курси",
+      "ru": "20-й практический диссекционный курс TSESI",
+      "en": "20th TSESI hands-on dissection course"
+    },
+    "description": {
+      "uz": "20-TSESI amaliy disseksiya kursidagi ishtiroki uchun berilgan. Hujjatda 14,5 CPD krediti qayd etilgan.",
+      "oz": "20-ТСЕСИ амалий диссексийа курсидаги иштироки учун берилган. Ҳужжатда 14,5 CПД кредити қайд етилган.",
+      "ru": "За участие в 20-м практическом диссекционном курсе TSESI. Указаны 14,5 кредита CPD.",
+      "en": "For participation in the 20th TSESI hands-on cadaver dissection course, listing 14.5 CPD credits."
+    },
+    "thumbnail": "/certificates/certificate-16-4-thumb.webp",
+    "images": [
+      "/certificates/certificate-16-4.webp"
+    ],
+    "pdf": null
+  },
+  {
+    "id": "certificate-16-5",
+    "meta": "31.05.2023 · Dubai",
+    "title": {
+      "uz": "20-TSESI quloq jarrohligi kursi",
+      "oz": "20-ТСЕСИ қулоқ жарроҳлиги курси",
+      "ru": "20-й курс отохирургии TSESI",
+      "en": "20th TSESI ear course"
+    },
+    "description": {
+      "uz": "20-TSESI disseksiya kursining quloq jarrohligi dasturida qatnashgani uchun berilgan. Hujjatda 6 CPD krediti ko‘rsatilgan.",
+      "oz": "20-ТСЕСИ диссексийа курсининг қулоқ жарроҳлиги дастурида қатнашгани учун берилган. Ҳужжатда 6 CПД кредити кўрсатилган.",
+      "ru": "За участие в программе отохирургии 20-го диссекционного курса TSESI. Указаны 6 кредитов CPD.",
+      "en": "For attending the ear surgery programme of the 20th TSESI cadaver dissection course, with 6 CPD credits listed."
+    },
+    "thumbnail": "/certificates/certificate-16-5-thumb.webp",
+    "images": [
+      "/certificates/certificate-16-5.webp"
+    ],
+    "pdf": null
+  },
+  {
+    "id": "certificate-16-6",
+    "meta": "04.2022 · Moscow",
+    "title": {
+      "uz": "Quloq mikrojarrohligi master-klassi",
+      "oz": "Қулоқ микрожарроҳлиги мастер-класси",
+      "ru": "Мастер-класс «Микрохирургия уха»",
+      "en": "Ear microsurgery masterclass"
+    },
+    "description": {
+      "uz": "S. Ya. Kosyakov rahbarligidagi «Quloq mikrojarrohligi» master-klassida ishtirok etgani uchun berilgan.",
+      "oz": "С. Йа. Косйаков раҳбарлигидаги «Қулоқ микрожарроҳлиги» мастер-классида иштирок етгани учун берилган.",
+      "ru": "За участие в мастер-классе «Микрохирургия уха» под руководством С. Я. Косякова.",
+      "en": "Awarded for attending the Ear Microsurgery masterclass led by S. Ya. Kosyakov."
+    },
+    "thumbnail": "/certificates/certificate-16-6-thumb.webp",
+    "images": [
+      "/certificates/certificate-16-6.webp"
+    ],
+    "pdf": null
+  },
+  {
+    "id": "certificate-16-12",
+    "meta": "2018 · Tashkent",
+    "title": {
+      "uz": "Otorinolaringologiya magistr diplomi",
+      "oz": "Оториноларингологийа магистр дипломи",
+      "ru": "Диплом магистра оториноларингологии",
+      "en": "Master’s diploma in otorhinolaryngology"
+    },
+    "description": {
+      "uz": "Toshkent tibbiyot akademiyasi tomonidan otorinolaringologiya mutaxassisligi bo‘yicha magistr darajasi berilganini tasdiqlaydi.",
+      "oz": "Тошкент тиббийот академийаси томонидан оториноларингологийа мутахассислиги бўйича магистр даражаси берилганини тасдиқлайди.",
+      "ru": "Подтверждает присвоение степени магистра по специальности «Оториноларингология» в Ташкентской медицинской академии.",
+      "en": "Confirms a Master’s degree in Otorhinolaryngology awarded by the Tashkent Medical Academy."
+    },
+    "thumbnail": "/certificates/certificate-16-12-thumb.webp",
+    "images": [
+      "/certificates/certificate-16-12.webp"
+    ],
+    "pdf": null
+  },
+  {
+    "id": "certificate-17-1",
+    "meta": "24.04.2022 · Moscow",
+    "title": {
+      "uz": "Endonazal va kalla asosi jarrohligi",
+      "oz": "Ендоназал ва калла асоси жарроҳлиги",
+      "ru": "Эндоназальная хирургия и основание черепа",
+      "en": "Endonasal and skull base surgery"
+    },
+    "description": {
+      "uz": "Burun, burun yondosh bo‘shliqlari va kalla asosining endoskopik endonazal jarrohligi bo‘yicha 18 soatlik kadaver malaka oshirish kursini o‘taganini tasdiqlaydi.",
+      "oz": "Бурун, бурун йондош бўшлиқлари ва калла асосининг ендоскопик ендоназал жарроҳлиги бўйича 18 соатлик кадавер малака ошириш курсини ўтаганини тасдиқлайди.",
+      "ru": "Подтверждает прохождение 18-часового кадаверного курса повышения квалификации по эндоскопической эндоназальной хирургии носа, пазух и основания черепа.",
+      "en": "Confirms completion of an 18-hour cadaver professional development course in endoscopic endonasal surgery of the nose, sinuses and skull base."
+    },
+    "thumbnail": "/certificates/certificate-17-1-thumb.webp",
+    "images": [
+      "/certificates/certificate-17-1.webp"
+    ],
+    "pdf": "/certificates/certificate-17.pdf"
+  },
+  {
+    "id": "certificate-17-2",
+    "meta": "26.04.2022 · Moscow",
+    "title": {
+      "uz": "Xolesteatomali o‘rta otit bo‘yicha kurs",
+      "oz": "Холестеатомали ўрта отит бўйича курс",
+      "ru": "Курс по среднему отиту с холестеатомой",
+      "en": "Otitis media with cholesteatoma course"
+    },
+    "description": {
+      "uz": "«Xolesteatomali surunkali yiringli o‘rta otit» mavzusidagi 18 soatlik kadaver malaka oshirish kursini o‘taganini tasdiqlaydi.",
+      "oz": "«Холестеатомали сурункали йирингли ўрта отит» мавзусидаги 18 соатлик кадавер малака ошириш курсини ўтаганини тасдиқлайди.",
+      "ru": "Подтверждает прохождение 18-часового кадаверного курса повышения квалификации «Хронический гнойный средний отит с холестеатомой».",
+      "en": "Confirms completion of an 18-hour cadaver professional development course on chronic suppurative otitis media with cholesteatoma."
+    },
+    "thumbnail": "/certificates/certificate-17-2-thumb.webp",
+    "images": [
+      "/certificates/certificate-17-2.webp"
+    ],
+    "pdf": "/certificates/certificate-17.pdf"
+  }
+]
